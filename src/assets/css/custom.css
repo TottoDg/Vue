@@ -1,0 +1,17 @@
+#main {
+  align-items: center;
+  background-color: #fff;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  position: relative;
+  width: 100%; }
+
+#app {
+  background-color: #f2f2f2;
+  border-radius: 25px;
+  box-shadow: 1px 5px 5px #c2c2c2;
+  position: relative;
+  width: 500px; }
+
+/*# sourceMappingURL=custom.css.map */
